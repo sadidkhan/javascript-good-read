@@ -10,3 +10,8 @@ https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
 3. JavaScript Visualized: Scope (Chain) =>
 https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd
+
+
+
+#Angular:
+1. https://medium.com/angular-in-depth/angular-di-getting-to-know-the-ivy-nodeinjector-33b815642a8e
